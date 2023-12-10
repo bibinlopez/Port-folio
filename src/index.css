@@ -6,4 +6,14 @@
   .align-element {
     @apply mx-auto max-w-7xl px-8;
   }
+  .projects-center {
+    @apply w-[90vw] max-w-[var(--max-width)] grid gap-8 mt-12 mx-auto my-0;
+  }
+  .project {
+    @apply block rounded shadow-[0_4px_6px_-1px_rgba(0,0,0,0.1),] transition-[0.3s] duration-[ease-in-out] ease-[all];
+    background: #fff;
+  }
+  .img {
+    @apply block object-cover;
+  }
 }

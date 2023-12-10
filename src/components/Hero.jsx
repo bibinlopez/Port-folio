@@ -25,7 +25,7 @@ const Hero = () => {
             <a href='https://www.linkedin.com/in/bibinlopez'>
               <FaLinkedin className='h-8 w-8 text-slate-500 hover:text-black duration-300 ' />
             </a>
-            <a href='https://wa.me/9446577361'>
+            <a href='https://wa.me/9567151305'>
               <FaWhatsappSquare className='h-8 w-8 text-slate-500 hover:text-black duration-300 ' />
             </a>
           </div>
